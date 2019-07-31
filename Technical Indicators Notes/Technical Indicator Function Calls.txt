@@ -1,0 +1,24 @@
+# Technical Indicators Functions:
+"""
+Use the below methods as follows:
+ti = TechIndicators(key='YOUR_API_KEY', output_format='pandas') #Or Change output
+data, meta_data = ti.CALL_METHOD(**kwargs)
+"""
+
+
+'get_ad', 'get_adosc', 'get_adx', 'get_adxr', 
+'get_apo', 'get_aroon', 'get_aroonosc'
+'get_atr', 'get_bbands', 'get_bop', 
+'get_cci', 'get_cmo', 'get_dema', 
+'get_dx', 'get_ema', 'get_ht_dcperiod', 
+'get_ht_dcphase', 'get_ht_phasor', 'get_ht_sine', 
+'get_ht_trendline', 'get_ht_trendmode', 'get_kama', 
+'get_macd', 'get_macdext', 'get_mama', 'get_mfi', 
+'get_midpoint', 'get_midprice', 'get_minus_di', 
+'get_minus_dm', 'get_mom', 'get_natr', 'get_obv', 
+'get_plus_di', 'get_plus_dm', 'get_ppo', 'get_roc', 
+'get_rocr', 'get_rsi', 'get_sar', 'get_sma', 'get_stoch', 
+'get_stochf', 'get_stochrsi', 'get_t3', 'get_tema', 'get_trange', 
+'get_trima', 'get_trix', 'get_ultsoc', 'get_willr', 'get_wma', 
+'indexing_type', 'key', 'map_to_matype', 'output_format', 
+'proxy', 'retries', 'set_proxy', 'treat_info_as_error'
