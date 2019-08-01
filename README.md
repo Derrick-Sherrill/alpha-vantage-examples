@@ -9,4 +9,4 @@ https://www.youtube.com/channel/UCJHs6RO1CSM85e8jIMmCySw
 
 * Returns data on the intraday timeseries of a stock specified by the symbol keyword arguement in the ts.get_intraday method.
 
-![alt text](Example Images/Timeseries-Example.png)
+![Time Series png found in Example-Images](Example-Images/Timeseries-Example.png)
