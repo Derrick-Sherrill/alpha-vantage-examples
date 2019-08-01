@@ -39,3 +39,12 @@ Calculating the EMA over each minute, using the last 60 minutes for the calculat
 ![Exponential Moving Average](Example-Images/Exponential-Moving-Average.png)
 
 https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/exponential_moving_average.py
+
+## 4. Stoichastic Oscillator 
+Please note the below script was used on a stock, not a security. Demonstration purposes only.
+
+![Stochastic Oscillator Example](Example-Images/Stochastic-Oscillator.png)
+
+https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/stochastic_oscillator.py 
+
+
