@@ -29,3 +29,11 @@ Combination of the technical indicators and time series API calls. Plotted again
 Simple moving average here being calculated by last 60 minutes. Adjust for own purposes. 
 
 https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/sma_vs_close.py
+
+## Exponential Moving Average 
+
+Calculating the EMA over each minute, using the last 60 minutes for the calculation.
+
+![Exponential Moving Average](Example-Images/Exponential-Moving-Average.png)
+
+https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/exponential_moving_average.py
