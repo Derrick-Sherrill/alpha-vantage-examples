@@ -8,7 +8,8 @@ I left an API key in all these scripts so they would run out of the box. You'll 
 https://www.alphavantage.co/support/#api-key
 
 
-## 1. Time Series Intraday (Script provided by Alpha Vantage https://www.alphavantage.co/documentation/ )
+## 1. Time Series Intraday 
+(Script provided by Alpha Vantage https://www.alphavantage.co/documentation/ )
 
 Returns data on the intraday timeseries of a stock specified by the symbol keyword arguement in the ts.get_intraday method.
 
