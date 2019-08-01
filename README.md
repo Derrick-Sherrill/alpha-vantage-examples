@@ -21,7 +21,7 @@ https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/timeserie
 
 
 
-## Simple Moving Average VS. Intraday Time Series
+## 2. Simple Moving Average VS. Intraday Time Series
 
 Combination of the technical indicators and time series API calls. Plotted against each other here:
 
@@ -32,7 +32,7 @@ Simple moving average here being calculated by last 60 minutes. Adjust for own p
 https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/sma_vs_close.py
 
 
-## Exponential Moving Average 
+## 3. Exponential Moving Average 
 
 Calculating the EMA over each minute, using the last 60 minutes for the calculation.
 
