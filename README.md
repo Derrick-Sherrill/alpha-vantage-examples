@@ -48,3 +48,9 @@ Please note the below script was used on a stock, not a security. Demonstration 
 https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/stochastic_oscillator.py 
 
 
+## 5. Weighted Moving Average
+Weighted moving average of Microsoft:
+
+![Weighted Moving Average](Example-Images/Weighted-Moving-Average.png)
+
+https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/weighted_moving_average.py
