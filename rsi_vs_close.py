@@ -10,7 +10,6 @@ data_ts, meta_data_ts = ts.get_intraday(symbol='MSFT',interval='1min', outputsiz
 
 periods = 14
 
-ti = TechIndicators(key=api_key, output_format='pandas')
 data_ti, meta_data_ti = ti.get_rsi(symbol='MSFT', interval='1min',
                          time_period=periods, series_type='close')
 
