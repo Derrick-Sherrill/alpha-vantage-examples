@@ -62,6 +62,13 @@ RSI is a momentum indicator that that measures the magnitude  of recent price ch
 
 https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/relative_strength_index.py
 
+## 7. RSI vs Close prices
+Plotting RSI against closing prices on the same graph, two y axis.
+
+![Relative Strength Index vs Close](Example-Images/RSI-Vs-Close.png)
+
+https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/rsi_vs_close.py
+
 
 
 
