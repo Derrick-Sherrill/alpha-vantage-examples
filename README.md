@@ -69,6 +69,13 @@ Plotting RSI against closing prices on the same graph, two y axis.
 
 https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/rsi_vs_close.py
 
+## 8. SMA plotted with RSI (Two TI's)
+Plotting two technical indicators on the same graph using twinx() in matplotlib
+
+![SMA vs RSI Example](Example-Images/SMA-Vs-RSI.png)
+
+https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/sma_and_rsi.py
+
 
 
 
