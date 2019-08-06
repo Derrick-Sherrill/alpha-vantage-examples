@@ -84,4 +84,5 @@ https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/sma_and_r
 
 
 #### Sources
+https://www.alphavantage.co/documentation/
 Chen, James. “Relative Strength Index – RSI.” Investopedia, Investopedia, 10 June 2019, www.investopedia.com/terms/r/rsi.asp.
