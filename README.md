@@ -54,3 +54,20 @@ Weighted moving average of Microsoft:
 ![Weighted Moving Average](Example-Images/Weighted-Moving-Average.png)
 
 https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/weighted_moving_average.py
+
+## 6. Relative Strength Index
+RSI is a momentum indicator that that measures the magnitude  of recent price changes to evaluate overbought or oversold conditions in the price of a stock or other asset.
+
+![Relative Strength Index](Example-Images/Relative-Strength-Index.png)
+
+https://github.com/Derrick-Sherrill/alpha-vantage-examples/blob/master/relative_strength_index.py
+
+
+
+
+
+
+
+
+#### Sources
+Chen, James. “Relative Strength Index – RSI.” Investopedia, Investopedia, 10 June 2019, www.investopedia.com/terms/r/rsi.asp.
