@@ -1,0 +1,9 @@
+ts methods:
+'get_batch_stock_quotes',
+'get_daily', 'get_daily_adjusted',
+ 'get_intraday', 'get_monthly',
+  'get_monthly_adjusted', 'get_weekly',
+   'get_weekly_adjusted', 'indexing_type',
+    'key', 'map_to_matype', 'output_format',
+     'proxy', 'retries', 'set_proxy',
+      'treat_info_as_error'
